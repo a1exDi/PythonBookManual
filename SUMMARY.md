@@ -20,21 +20,15 @@
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Строка \(Strings\)](tipi-dannih/stroka-strings-str.md)
   * [Логический тип \(Boolean\)](tipi-dannih/logicheskii-tip-booltruefalse.md)
-* [4. Арифметические операции](arifmeticheskie-operatsii.md)
-  * Сложение +
-  * Вычитание -
-  * Умножение \*
-  * Деление /
-  * Деление по модулю %
-  * Возведение в степень \*\*
-  * Целочисленное деление //
-* [8. Циклы](tsikli.md)
-  * [if/elif/else](tsikli/ifelifelse.md)
-  * while
-  * break, continue, pass
 * [5. Операторы](operatori.md)
   * [Операторы присваивания](operatori/operatori-prisvaivaniya.md)
     * =
   * Операторы тождественности
   * Операторы сравнения
+  * Арифметические операторы
+  * Оператор конкатенации
+* [8. Циклы](tsikli.md)
+  * [if/elif/else](tsikli/ifelifelse.md)
+  * while
+  * break, continue, pass
 
