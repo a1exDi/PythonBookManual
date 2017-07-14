@@ -1,6 +1,6 @@
 {
-    "title": "Python для сетевых инженеров",
-    "author": "Наташа Самойленко",
+    "title": "Python для новичков",
+    "author": "Алексей Ширки",
     "plugins": [
         "expandable-chapters",
         "codetabs",
