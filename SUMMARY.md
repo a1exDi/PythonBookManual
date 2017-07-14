@@ -28,27 +28,13 @@
   * Деление по модулю %
   * Возведение в степень \*\*
   * Целочисленное деление //
-* [5. Операторы сравнения](operatori-sravneniya.md)
-  * [Равно ==](operatori-sravneniya/ravno.md)
-  * Не равно !=
-  * Больше &gt;
-  * Меньше &lt;
-  * Больше или равно &gt;=
-  * Меньше или равно &lt;=
-  * &lt;&gt;
-* [6. Операторы присваивания](operatori-prisvaivaniya.md)
-  * =
-  * +=
-  * -=
-  * \*=
-  * /=
-  * %=
-  * \*\*=
-  * //=
-* [7. Операторы тождественности](operatori-tozhdestvennosti.md)
 * [8. Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
   * break, continue, pass
-* [Операторы](operatori.md)
+* [5. Операторы](operatori.md)
+  * [Операторы присваивания](operatori/operatori-prisvaivaniya.md)
+    * =
+  * Операторы тождественности
+  * Операторы сравнения
 
