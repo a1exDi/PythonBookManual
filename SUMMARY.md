@@ -1,7 +1,11 @@
 # Summary
 
 * [Вступление](README.md)
-* [Python](python.md)
+* [0. Python](python.md)
+  * [Задачи](python/zadachi.md)
+  * [Книги](python/knigi.md)
+  * Курсы
+  * [Видео](python/video.md)
 * [1. Подготовка к работе](chapter1.md)
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
   * 1.2. Установка редактора кода
