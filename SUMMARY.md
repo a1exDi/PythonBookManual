@@ -13,6 +13,7 @@
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
   * 1.2. Установка редактора кода
 * [2. Начало работы с Python](yfdfwerwer.md)
+  * [2.1. Синтаксис](yfdfwerwer/sintaksis.md)
 * [3. Типы данных](tipi-dannih.md)
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Строка \(Strings\)](tipi-dannih/stroka-strings-str.md)
