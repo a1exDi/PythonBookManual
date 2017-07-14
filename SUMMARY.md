@@ -11,7 +11,7 @@
   * 1.2. Установка редактора кода
 * [2. Начало работы с Python](yfdfwerwer.md)
 * [3. Типы данных](tipi-dannih.md)
-  * [Число \(Numbers\) - int](tipi-dannih/chislo-numbers-int.md)
+  * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Вещественное число -  float](tipi-dannih/veschestvennoe-chislo-float.md)
   * [Строка \(Strings\) - str](tipi-dannih/stroka-strings-str.md)
   * [Логический тип - bool:True/False](tipi-dannih/logicheskii-tip-booltruefalse.md)
