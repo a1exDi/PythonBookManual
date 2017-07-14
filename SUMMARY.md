@@ -45,8 +45,9 @@
   * %=
   * \*\*=
   * //=
-* [7. Циклы](tsikli.md)
+* [8. Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
   * break, continue, pass
+* [7. Операторы тождественности](operatori-tozhdestvennosti.md)
 
