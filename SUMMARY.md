@@ -16,7 +16,7 @@
 * [3. Типы данных](tipi-dannih.md)
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Строка \(Strings\)](tipi-dannih/stroka-strings-str.md)
-  * [Логический тип - bool:True/False](tipi-dannih/logicheskii-tip-booltruefalse.md)
+  * [Логический тип \(Boolean\)](tipi-dannih/logicheskii-tip-booltruefalse.md)
 * [4. Арифметические операции](arifmeticheskie-operatsii.md)
   * Сложение +
   * Вычитание -
