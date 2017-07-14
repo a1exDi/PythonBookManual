@@ -7,8 +7,5 @@
         "richquotes",
         "ga",
         "back-to-top-button"
-    ],
-    "variables": {
-      "ansible_img_path": "https://raw.githubusercontent.com/natenka/PyNEng/master/images/15_ansible/"
-    }
+    ]
 }
