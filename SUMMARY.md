@@ -50,4 +50,6 @@
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
   * break, continue, pass
+* [Приоритет операторов](prioritet-operatorov.md)
+* [Операторы](operatori.md)
 
