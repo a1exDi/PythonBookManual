@@ -16,6 +16,13 @@
   * [Строка \(Strings\) - str](tipi-dannih/stroka-strings-str.md)
   * [Логический тип - bool:True/False](tipi-dannih/logicheskii-tip-booltruefalse.md)
 * [4. Арифметические операции](arifmeticheskie-operatsii.md)
+  * Сложение +
+  * Вычитание -
+  * Умножение \*
+  * Деление /
+  * Деление по модулю %
+  * Возведение в степень \*\*
+  * Целочисленное деление //
 * [5. Операторы сравнения](operatori-sravneniya.md)
 * [6. Операторы присваивания](operatori-prisvaivaniya.md)
 * [7. Циклы](tsikli.md)
