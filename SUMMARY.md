@@ -14,6 +14,7 @@
   * [Число \(Numbers\) - int](tipi-dannih/chislo-numbers-int.md)
   * [Вещественное число -  float](tipi-dannih/veschestvennoe-chislo-float.md)
   * [Строка \(Strings\) - str](tipi-dannih/stroka-strings-str.md)
+  * [Логический тип - bool:True/False](tipi-dannih/logicheskii-tip-booltruefalse.md)
 * [4. Арифметические операции](arifmeticheskie-operatsii.md)
 * [5. Операторы сравнения](operatori-sravneniya.md)
 * [6. Операторы присваивания](operatori-prisvaivaniya.md)
