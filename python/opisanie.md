@@ -11,13 +11,17 @@ import this
 ```py
 The Zen of Python, by Tim Peters
 
-Beautiful is better than ugly. - Красивое лучше уродливого.
+1. Beautiful is better than ugly.
+1. Красивое лучше уродливого.
 
-Explicit is better than implicit. - Явное лучше неявного.
+2. Explicit is better than implicit.
+2. Явное лучше неявного.
 
-Simple is better than complex. - Простое лучше сложного.
+3. Simple is better than complex.
+3. Простое лучше сложного.
 
-Complex is better than complicated. - Сложное лучше усложнённого.
+4. Complex is better than complicated.
+4. Сложное лучше усложнённого.
 
 Flat is better than nested. - Плоское лучше вложенного.
 
