@@ -25,6 +25,14 @@
   * Целочисленное деление //
 * [5. Операторы сравнения](operatori-sravneniya.md)
 * [6. Операторы присваивания](operatori-prisvaivaniya.md)
+  * =
+  * +=
+  * -=
+  * \*=
+  * /=
+  * %=
+  * \*\*=
+  * //=
 * [7. Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
