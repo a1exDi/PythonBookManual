@@ -6,5 +6,6 @@
 * [3. Типы данных](tipi-dannih.md)
 * [4. Арифметические операции](arifmeticheskie-operatsii.md)
 * [5. Операторы сравнения](operatori-sravneniya.md)
-* [Операторы присваивания](operatori-prisvaivaniya.md)
+* [6. Операторы присваивания](operatori-prisvaivaniya.md)
+* [7. Циклы](tsikli.md)
 
