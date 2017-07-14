@@ -32,4 +32,5 @@
   * while
   * break, continue, pass
 * [7. Модули](moduli.md)
+  * [Модуль random](moduli/modul-random.md)
 
