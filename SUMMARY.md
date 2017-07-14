@@ -31,4 +31,5 @@
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
   * break, continue, pass
+* [7. Модули](moduli.md)
 
