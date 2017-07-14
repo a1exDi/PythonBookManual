@@ -34,4 +34,5 @@
 * [7. Модули](moduli.md)
   * [Модуль random](moduli/modul-random.md)
   * [Модуль math](moduli/modul-math.md)
+* [8. Библиотеки](biblioteki.md)
 
