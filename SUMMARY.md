@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [1. Подготовка к работе](chapter1.md)
+* 2. Начало работы с Python
+
