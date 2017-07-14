@@ -2,12 +2,13 @@
 
 * [Вступление](README.md)
 * [0. Python](python.md)
-  * [Задачи](python/zadachi.md)
+  * [Описание](python/opisanie.md)
+  * [История](python/istoriya.md)
+  * [Особенности](python/osobennosti.md)
   * [Книги](python/knigi.md)
+  * [Задачи](python/zadachi.md)
   * [Курсы](python/kursi.md)
   * [Видео](python/video.md)
-  * Особенности
-  * История
 * [1. Подготовка к работе](chapter1.md)
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
   * 1.2. Установка редактора кода
