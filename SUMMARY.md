@@ -27,7 +27,7 @@
   * Операторы сравнения
   * Арифметические операторы
   * Оператор конкатенации
-* [8. Циклы](tsikli.md)
+* [6. Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
   * break, continue, pass
