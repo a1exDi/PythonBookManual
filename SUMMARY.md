@@ -3,4 +3,6 @@
 * [Вступление](README.md)
 * [1. Подготовка к работе](chapter1.md)
 * [2. Начало работы с Python](yfdfwerwer.md)
+* [3. Типы данных](tipi-dannih.md)
+* [Арифметические операции](arifmeticheskie-operatsii.md)
 
