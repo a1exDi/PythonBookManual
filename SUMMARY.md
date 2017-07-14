@@ -4,7 +4,7 @@
 * [0. Python](python.md)
   * [Задачи](python/zadachi.md)
   * [Книги](python/knigi.md)
-  * Курсы
+  * [Курсы](python/kursi.md)
   * [Видео](python/video.md)
 * [1. Подготовка к работе](chapter1.md)
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
