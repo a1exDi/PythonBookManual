@@ -44,7 +44,6 @@ sqlite3.connect('test.db')
 
 
 print "Opened database successfully";
-
 ```
 
 Здесь вы также можете поставить имя базы данных в качестве специального имени**:memory: создать базу данных в оперативной памяти.**Теперь, давайте работать над программой , чтобы создать нашу базу данных**test.db в текущем каталоге.**Вы можете изменить свой путь, согласно вашему требованию. Держите выше код в sqlite.py файл и выполнить его, как показано ниже. Если база данных успешно создана, то это даст следующее сообщение:
@@ -53,7 +52,6 @@ print "Opened database successfully";
 $chmod +x sqlite.py
 $./sqlite.py
 Open database successfully
-
 ```
 
 ---
@@ -91,7 +89,6 @@ conn.close()
 ```
 Opened database successfully
 Table created successfully
-
 ```
 
 ---
@@ -155,7 +152,6 @@ conn.close()
 ```
 Opened database successfully
 Records created successfully
-
 ```
 
 ---
@@ -164,35 +160,23 @@ Records created successfully
 
 После программы Python показывает, как мы можем получать и отображать записи из нашей компании таблицы, созданной в предыдущем примере:
 
-```
+```py
 #!/usr/bin/python
 
 import sqlite3
 
-conn = 
-sqlite3.connect('test.db')
+conn = sqlite3.connect('test.db')
 
 print "Opened database successfully";
 
-cursor = 
-conn.execute("SELECT id, name, address, salary  from COMPANY")
+cursor = conn.execute("SELECT id, name, address, salary  from COMPANY")
 
 for row in cursor:
-   print 
-"ID = "
- , row[0]
-   print 
-"NAME = "
- , row[1]
-   print 
-"ADDRESS = "
- , row[2]
-   print 
-"SALARY = "
- , row[3], 
-"\n"
-
-
+   print "ID = ", row[0]
+   print "NAME = ", row[1]
+   print "ADDRESS = ", row[2]
+   print "SALARY = ", row[3], "\n"
+   
 print "Operation done successfully";
 
 conn.close()
@@ -223,7 +207,6 @@ ADDRESS =  Rich-Mond
 SALARY =  65000.0
 
 Operation done successfully
-
 ```
 
 ---
@@ -300,7 +283,6 @@ ADDRESS =  Rich-Mond
 SALARY =  65000.0
 
 Operation done successfully
-
 ```
 
 ---
