@@ -36,5 +36,7 @@
   * [Модуль random](moduli/modul-random.md)
   * [Модуль math](moduli/modul-math.md)
 * [8. Библиотеки](biblioteki.md)
-* [Базы данных](bazi-dannih.md)
+* [9. Базы данных](bazi-dannih.md)
+  * [SQLite](bazi-dannih/sqlite.md)
+    * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 
