@@ -1,4 +1,4 @@
 # Курсы
 
-
+Очень простой сервис по изучению Python, хотя именно "изучать" я там не рекомендую, так, как информации минимум. Скорей всего подойдет для повторения и закрепления материала. Лично я использую этот сервис на телефоне \([iOS](https://itunes.apple.com/us/app/id953972812), [Android](https://play.google.com/store/apps/details?id=com.sololearn)\) - [https://www.sololearn.com/Course/Python/](https://www.sololearn.com/Course/Python/)
 
