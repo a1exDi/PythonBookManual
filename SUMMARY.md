@@ -11,6 +11,7 @@
   * [Видео](python/video.md)
   * [Сообщество](python/soobschestvo.md)
   * [Сайты](python/saiti.md)
+  * [Python на мобильном](python/python-na-mobilnom-ustroistve.md)
 * [1. Подготовка к работе](chapter1.md)
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
   * 1.2. Установка редактора кода
@@ -20,7 +21,10 @@
 * [3. Типы данных](tipi-dannih.md)
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Строка \(Strings\)](tipi-dannih/stroka-strings-str.md)
-  * [Логический тип \(Boolean\)](tipi-dannih/logicheskii-tip-booltruefalse.md)
+  * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
+  * Списки - list
+  * [Словари - dict](tipi-dannih/slovari.md)
+  * [Кортежи - tuple](tipi-dannih/kortezhi.md)
 * [5. Операторы](operatori.md)
   * [Операторы присваивания](operatori/operatori-prisvaivaniya.md)
     * =
