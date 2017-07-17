@@ -20,7 +20,7 @@
   * [2.2. PEP 8](yfdfwerwer/pep-8.md)
 * [3. Типы данных](tipi-dannih.md)
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
-  * [Строка \(Strings\)](tipi-dannih/stroka-strings-str.md)
+  * [Строка - string](tipi-dannih/stroka-strings-str.md)
   * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
   * Списки - list
   * [Словари - dict](tipi-dannih/slovari.md)
