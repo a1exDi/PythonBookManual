@@ -43,4 +43,5 @@
 * [9. Базы данных](bazi-dannih.md)
   * [SQLite](bazi-dannih/sqlite.md)
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
+* [Встроенные функции](vstroennie-funktsii.md)
 
