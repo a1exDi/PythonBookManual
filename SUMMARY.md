@@ -1,6 +1,7 @@
 # Summary
 
 * [Вступление](README.md)
+  * [Склад/Мусор](skladmusor.md)
 * [0. Python](python.md)
   * [Описание](python/opisanie.md)
   * [История](python/istoriya.md)
