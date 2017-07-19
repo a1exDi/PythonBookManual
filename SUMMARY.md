@@ -2,6 +2,7 @@
 
 * [Вступление](README.md)
   * [Склад/Мусор](skladmusor.md)
+  * [Содержание](soderzhanie.md)
 * [0. Python](python.md)
   * [Описание](python/opisanie.md)
   * [История](python/istoriya.md)
