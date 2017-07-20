@@ -20,6 +20,7 @@
 * [2. Начало работы с Python](yfdfwerwer.md)
   * [2.1. Синтаксис](yfdfwerwer/sintaksis.md)
     * [2.1.1 Переменные](yfdfwerwer/sintaksis/peremennie.md)
+    * [2.1.2 Коментарии](yfdfwerwer/sintaksis/komentarii.md)
   * [2.2. PEP 8](yfdfwerwer/pep-8.md)
 * [3. Типы данных](tipi-dannih.md)
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
