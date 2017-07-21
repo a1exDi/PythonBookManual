@@ -33,40 +33,40 @@ The Zen of Python, by Tim Peters
 7. Удобочитаемость важна.
 
 8. Special cases aren't special enough to break the rules.
-Частные случаи не настолько существенны, чтобы нарушать правила.
+8. Частные случаи не настолько существенны, чтобы нарушать правила.
 
-Although practicality beats purity.
-Однако практичность важнее чистоты.
+9. Although practicality beats purity.
+9. Однако практичность важнее чистоты.
 
-Errors should never pass silently.
-Ошибки никогда не должны замалчиваться.
+10. Errors should never pass silently.
+10. Ошибки никогда не должны замалчиваться.
 
-Unless explicitly silenced.
-За исключением замалчивания, которое задано явно.
+11. Unless explicitly silenced.
+11. За исключением замалчивания, которое задано явно.
 
-In the face of ambiguity, refuse the temptation to guess.
-Перед лицом неоднозначности сопротивляйтесь искушению угадать.
+12. In the face of ambiguity, refuse the temptation to guess.
+12. Перед лицом неоднозначности сопротивляйтесь искушению угадать.
 
-There should be one-- and preferably only one --obvious way to do it.
-Должен существовать один — и, желательно, только один — очевидный способ сделать это.
+13. There should be one-- and preferably only one --obvious way to do it.
+13. Должен существовать один — и, желательно, только один — очевидный способ сделать это.
 
-Although that way may not be obvious at first unless you're Dutch.
-Хотя он может быть с первого взгляда не очевиден, если ты не голландец.
+14. Although that way may not be obvious at first unless you're Dutch.
+14. Хотя он может быть с первого взгляда не очевиден, если ты не голландец.
 
-Now is better than never.
-Сейчас лучше, чем никогда.
+15. Now is better than never.
+15. Сейчас лучше, чем никогда.
 
-Although never is often better than *right* now.
-Однако, никогда чаще лучше, чем прямо сейчас.
+16. Although never is often better than *right* now.
+16. Однако, никогда чаще лучше, чем прямо сейчас.
 
-If the implementation is hard to explain, it's a bad idea.
-Если реализацию сложно объяснить — это плохая идея.
+17. If the implementation is hard to explain, it's a bad idea.
+17. Если реализацию сложно объяснить — это плохая идея.
 
-If the implementation is easy to explain, it may be a good idea.
-Если реализацию легко объяснить — это может быть хорошая идея.
+18. If the implementation is easy to explain, it may be a good idea.
+18. Если реализацию легко объяснить — это может быть хорошая идея.
 
-Namespaces are one honking great idea -- let's do more of those!
-Пространства имён — прекрасная идея, давайте делать их больше!
+19. Namespaces are one honking great idea -- let's do more of those!
+19. Пространства имён — прекрасная идея, давайте делать их больше!
 ```
 
 ---
