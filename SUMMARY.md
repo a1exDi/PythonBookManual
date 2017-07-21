@@ -48,4 +48,6 @@
   * [SQLite](bazi-dannih/sqlite.md)
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [Встроенные функции](vstroennie-funktsii.md)
+* [Django](django.md)
+  * [Django CMS](django/django-cms.md)
 
