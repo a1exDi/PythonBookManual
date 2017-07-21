@@ -49,6 +49,6 @@
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [Встроенные функции](vstroennie-funktsii.md)
 * [Frameworks](frameworks.md)
-* [Django](django.md)
-  * [Django CMS](django/django-cms.md)
+  * [Django](frameworks/django.md)
+    * [Django CMS](frameworks/django/django-cms.md)
 
