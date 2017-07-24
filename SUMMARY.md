@@ -1,8 +1,7 @@
 # Summary
 
 * [Вступление](README.md)
-  * [Склад/Мусор](skladmusor.md)
-  * [Содержание](soderzhanie.md)
+  * [Склад ссылок](skladmusor.md)
 * [0. Python](python.md)
   * [Описание](python/opisanie.md)
   * [История](python/istoriya.md)
@@ -48,7 +47,7 @@
   * [SQLite](bazi-dannih/sqlite.md)
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii.md)
-* [Frameworks](frameworks.md)
+* [11.Frameworks](frameworks.md)
   * [Django](frameworks/django.md)
     * [Django CMS](frameworks/django/django-cms.md)
 
