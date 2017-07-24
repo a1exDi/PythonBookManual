@@ -31,11 +31,11 @@
   * [Кортежи - tuple](tipi-dannih/kortezhi.md)
 * [5. Операторы](operatori.md)
   * [Операторы присваивания](operatori/operatori-prisvaivaniya.md)
-    * [=](operatori/operatori-prisvaivaniya/.md)
   * [Операторы тождественности](operatori/operatori-tozhdestvennosti.md)
   * [Операторы сравнения](operatori/operatori-sravneniya.md)
   * [Арифметические операторы](operatori/arifmeticheskie-operatori.md)
   * [Оператор конкатенации](operatori/operator-konkatenatsii.md)
+  * [Логические операторы](operatori/logicheskie-operatori.md)
 * [6. Условия и Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * while
