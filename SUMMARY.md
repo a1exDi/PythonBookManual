@@ -47,7 +47,7 @@
 * [9. Базы данных](bazi-dannih.md)
   * [SQLite](bazi-dannih/sqlite.md)
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
-* [Встроенные функции](vstroennie-funktsii.md)
+* [10. Встроенные функции](vstroennie-funktsii.md)
 * [Frameworks](frameworks.md)
   * [Django](frameworks/django.md)
     * [Django CMS](frameworks/django/django-cms.md)
