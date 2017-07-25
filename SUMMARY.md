@@ -28,6 +28,7 @@
   * Списки - list
   * [Словари - dict](tipi-dannih/slovari.md)
   * [Кортежи - tuple](tipi-dannih/kortezhi.md)
+  * [Множества](tipi-dannih/mnozhestva.md)
 * [5. Операторы](operatori.md)
   * [Операторы присваивания](operatori/operatori-prisvaivaniya.md)
   * [Операторы тождественности](operatori/operatori-tozhdestvennosti.md)
