@@ -47,7 +47,9 @@
   * [SQLite](bazi-dannih/sqlite.md)
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii.md)
+  * [enumerate](vstroennie-funktsii/enumerate.md)
 * [11.Frameworks](frameworks.md)
   * [Django](frameworks/django.md)
     * [Django CMS](frameworks/django/django-cms.md)
+  * Flask
 
