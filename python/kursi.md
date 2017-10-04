@@ -32,3 +32,11 @@
 
 [https://www.codecademy.com/courses/learn-python](https://www.codecademy.com/courses/learn-python)
 
+---
+
+### Pythontutor
+
+Бесплатный курс по программированию с нуля. Работает прямо в браузере.  
+[  
+http://pythontutor.ru/](http://pythontutor.ru/)
+
