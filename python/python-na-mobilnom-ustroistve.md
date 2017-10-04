@@ -6,7 +6,7 @@
 
 | Название | Ссылка |
 | :--- | :--- |
-|  |  |
+| Учим питон \(SoloLearn\) | [Google Play](https://play.google.com/store/apps/details?id=com.sololearn.python&hl=ru) |
 
 ## **iOS**
 
