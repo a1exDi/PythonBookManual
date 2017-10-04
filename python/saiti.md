@@ -1,7 +1,5 @@
 # Полезные сайты про Python
 
-[http://pythontutor.ru/](http://pythontutor.ru/)
-
 Полезный сайт, который держу под рукой во время обучения Python и конспектирования в данный wiki. В принципе там можно найти все основы для старта программирования на питоне - [https://pythonworld.ru/](https://pythonworld.ru/)
 
 Техническая библиотека IBM. Материалы по Python - [https://goo.gl/31KYuY](https://goo.gl/31KYuY)
