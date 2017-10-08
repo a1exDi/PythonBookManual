@@ -40,8 +40,8 @@
   * [Логические операторы](operatori/logicheskie-operatori.md)
 * [6. Условия и Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
-  * while
-  * break, continue, pass
+  * [while](tsikli/while.md)
+  * [break, continue, pass](tsikli/break-continue-pass.md)
 * [7. Модули](moduli.md)
   * [Модуль random](moduli/modul-random.md)
   * [Модуль math](moduli/modul-math.md)
