@@ -6,11 +6,11 @@
 
 Онлайн-компилятор, IDE, интерпретатор и интерактивная среда разработки для Python. С помощью данного сервиса можно начать обучаться Python и не ставить никакой дополнительный софт на компьютер. Все вычисления выполняются на сайте. Код можно сохранять и шарить для других пользователей - [https://repl.it](https://repl.it)
 
+[https://learnxinyminutes.com/docs/ru-ru/python3-ru/](https://learnxinyminutes.com/docs/ru-ru/python3-ru/)
 
+[https://learnxinyminutes.com/docs/python3/](https://learnxinyminutes.com/docs/python3/)
 
-https://learnxinyminutes.com/docs/ru-ru/python3-ru/
+[http://itman.in/python-za-10-minut/](http://itman.in/python-za-10-minut/)
 
-https://learnxinyminutes.com/docs/python3/
-
-http://itman.in/python-za-10-minut/
+[https://awesome-python.com/](https://awesome-python.com/)
 
