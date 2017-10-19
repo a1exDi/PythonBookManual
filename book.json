@@ -19,14 +19,4 @@
 }
 
 
-{
-    "plugins": ["disqus"],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "XXXXXXX"
-        }
-    }
-}
-
-
 
