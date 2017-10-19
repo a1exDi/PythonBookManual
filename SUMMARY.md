@@ -28,7 +28,7 @@
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Строка - string](tipi-dannih/stroka-strings-str.md)
   * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
-  * Списки - list
+  * [Списки - list](tipi-dannih/spiski-list.md)
   * [Словари - dict](tipi-dannih/slovari.md)
   * [Кортежи - tuple](tipi-dannih/kortezhi.md)
   * [Множества](tipi-dannih/mnozhestva.md)
@@ -53,5 +53,5 @@
 * [11.Frameworks](frameworks.md)
   * [Django](frameworks/django.md)
     * [Django CMS](frameworks/django/django-cms.md)
-  * Flask
+  * [Flask](frameworks/flask.md)
 
