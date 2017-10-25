@@ -176,7 +176,7 @@ for row in cursor:
    print "NAME = ", row[1]
    print "ADDRESS = ", row[2]
    print "SALARY = ", row[3], "\n"
-   
+
 print "Operation done successfully";
 
 conn.close()
