@@ -56,4 +56,6 @@
     * [Django CMS](frameworks/django/django-cms.md)
   * [Flask](frameworks/flask.md)
     * [Книги](frameworks/flask/books-flask.md)
+* [12. Инструменты](instrumenti.md)
+  * [virtualenv](instrumenti/virtualenv.md)
 
