@@ -55,4 +55,5 @@
   * [Django](frameworks/django.md)
     * [Django CMS](frameworks/django/django-cms.md)
   * [Flask](frameworks/flask.md)
+    * [Книги](frameworks/flask/books-flask.md)
 
