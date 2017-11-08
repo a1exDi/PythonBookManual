@@ -16,6 +16,7 @@
   * [Словарь](python/slovar.md)
   * [Статьи](python/stati.md)
   * [Шпаргалка](python/shpargalka.md)
+  * [IDE](python/idie.md)
 * [1. Подготовка к работе](chapter1.md)
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
   * [1.2. Установка редактора кода](chapter1/12-ustanovka-redaktora-koda.md)
