@@ -53,9 +53,12 @@
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii.md)
   * [enumerate](vstroennie-funktsii/enumerate.md)
-* [11.Frameworks](frameworks.md)
+* [11. Frameworks](frameworks.md)
   * Django
   * Flask
 * [12. Возможности](vozmozhnosti.md)
   * Web Scrapping
+* [13. Инструменты](instrumenti.md)
+  * pip
+  * virtualenv
 
