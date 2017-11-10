@@ -30,8 +30,8 @@
   * [Множества](tipi-dannih/mnozhestva.md)
   * [Строка - string](tipi-dannih/stroka-strings-str.md)
   * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
-* [Типы коллеций](tipi-kolletsii.md)
-  * еу
+* [4. Типы коллеций](tipi-kolletsii.md)
+  * [еу](tipi-dannih/eu.md)
   * [Списки - list](tipi-dannih/spiski-list.md)
   * [Словари - dict](tipi-dannih/slovari.md)
   * [Кортежи - tuple](tipi-dannih/kortezhi.md)
@@ -53,4 +53,9 @@
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii.md)
   * [enumerate](vstroennie-funktsii/enumerate.md)
+* [11.Frameworks](frameworks.md)
+  * Django
+  * Flask
+* [12. Возможности](vozmozhnosti.md)
+  * Web Scrapping
 
