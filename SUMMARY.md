@@ -53,9 +53,4 @@
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii.md)
   * [enumerate](vstroennie-funktsii/enumerate.md)
-* [Типы коллеций](tipi-kolletsii.md)
-  * еу
-  * [Списки - list](tipi-dannih/spiski-list.md)
-  * [Словари - dict](tipi-dannih/slovari.md)
-  * [Кортежи - tuple](tipi-dannih/kortezhi.md)
 
