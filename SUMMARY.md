@@ -61,4 +61,5 @@
 * [13. Инструменты](instrumenti.md)
   * pip
   * virtualenv
+* [14. Библиотеки](biblioteki.md)
 
