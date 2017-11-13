@@ -31,7 +31,6 @@
   * [Строка - string](tipi-dannih/stroka-strings-str.md)
   * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
 * [4. Типы коллеций](tipi-kolletsii.md)
-  * [еу](tipi-dannih/eu.md)
   * [Списки - list](tipi-dannih/spiski-list.md)
   * [Словари - dict](tipi-dannih/slovari.md)
   * [Кортежи - tuple](tipi-dannih/kortezhi.md)
@@ -58,8 +57,11 @@
   * Flask
 * [12. Возможности](vozmozhnosti.md)
   * Web Scrapping
+  * Machine Learning
 * [13. Инструменты](instrumenti.md)
   * pip
   * virtualenv
 * [14. Библиотеки](biblioteki.md)
+  * cv2
+  * NumPy
 
