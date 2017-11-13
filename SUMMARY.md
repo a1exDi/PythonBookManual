@@ -57,7 +57,8 @@
   * Flask
 * [12. Возможности](vozmozhnosti.md)
   * Web Scrapping
-  * Machine Learning
+  * [Machine Learning](vozmozhnosti/machine-learning.md)
+    * Tangent
 * [13. Инструменты](instrumenti.md)
   * pip
   * virtualenv
