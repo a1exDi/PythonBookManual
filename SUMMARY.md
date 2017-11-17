@@ -66,4 +66,5 @@
   * cv2
   * NumPy
   * SciPy
+  * Matplotlib
 
