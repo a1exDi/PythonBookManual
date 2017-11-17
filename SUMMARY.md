@@ -65,4 +65,5 @@
 * [14. Библиотеки](biblioteki.md)
   * cv2
   * NumPy
+  * SciPy
 
