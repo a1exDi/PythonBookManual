@@ -52,9 +52,13 @@
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii.md)
   * [enumerate](vstroennie-funktsii/enumerate.md)
-* [11. Frameworks](frameworks.md)
+* [11. Web Frameworks](frameworks.md)
   * Django
   * Flask
+  * Pyramid
+  * Bottle
+  * Falcon
+  * Morepath
 * [12. Возможности](vozmozhnosti.md)
   * Web Scrapping
   * [Machine Learning](vozmozhnosti/machine-learning.md)
