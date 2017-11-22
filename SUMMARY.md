@@ -87,5 +87,6 @@
       * Text
       * TopLevel
       * Scrollbar
-  * PyQt
+  * [PyQt](gui/pyqt.md)
+    * Виджеты
 
