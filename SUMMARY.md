@@ -63,6 +63,8 @@
   * Web Scrapping
   * [Machine Learning](vozmozhnosti/machine-learning.md)
     * Tangent
+  * Data Science
+  * Big Data
 * [13. Инструменты](instrumenti.md)
   * [pip](instrumenti/pip.md)
   * virtualenv
