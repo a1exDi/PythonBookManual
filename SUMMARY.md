@@ -71,4 +71,5 @@
   * NumPy
   * SciPy
   * Matplotlib
+* 15. GUI
 
