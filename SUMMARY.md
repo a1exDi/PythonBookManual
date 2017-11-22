@@ -64,7 +64,7 @@
   * [Machine Learning](vozmozhnosti/machine-learning.md)
     * Tangent
 * [13. Инструменты](instrumenti.md)
-  * pip
+  * [pip](instrumenti/pip.md)
   * virtualenv
 * [14. Библиотеки](biblioteki.md)
   * cv2
@@ -87,4 +87,5 @@
       * Text
       * TopLevel
       * Scrollbar
+  * PyQt
 
