@@ -71,5 +71,9 @@
   * NumPy
   * SciPy
   * Matplotlib
-* 15. GUI
+* [15. GUI](gui.md)
+  * [Tkinter](gui/tkinter.md)
+    * [Виджеты](gui/tkinter/vidzheti.md)
+      * [Button](gui/tkinter/vidzheti/button.md)
+      * Checkbutton
 
