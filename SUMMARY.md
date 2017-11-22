@@ -76,4 +76,15 @@
     * [Виджеты](gui/tkinter/vidzheti.md)
       * [Button](gui/tkinter/vidzheti/button.md)
       * Checkbutton
+      * Entry
+      * Frame
+      * Label
+      * Listbox
+      * Message
+      * PanedWindow
+      * Radiobutton
+      * Scale
+      * Text
+      * TopLevel
+      * Scrollbar
 
