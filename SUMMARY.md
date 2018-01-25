@@ -70,6 +70,7 @@
 * [13. Инструменты](instrumenti.md)
   * [pip](instrumenti/pip.md)
   * virtualenv
+  * conda
 * [14. Библиотеки](biblioteki.md)
   * cv2
   * NumPy
