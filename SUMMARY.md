@@ -45,6 +45,7 @@
 * [6. Условия и Циклы](tsikli.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * [while](tsikli/while.md)
+  * [for](tsikli/for.md)
 * [7. Модули](moduli.md)
   * [Модуль random](moduli/modul-random.md)
   * [Модуль math](moduli/modul-math.md)
