@@ -65,6 +65,7 @@
   * Web Scrapping
   * [Machine Learning](vozmozhnosti/machine-learning.md)
     * Tangent
+    * Tensorflow
   * Data Science
   * Big Data
 * [13. Инструменты](instrumenti.md)
@@ -94,4 +95,5 @@
       * Scrollbar
   * [PyQt](gui/pyqt.md)
     * Виджеты
+  * [Toga](gui/toga.md)
 
