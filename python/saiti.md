@@ -16,5 +16,7 @@
 
 [https://www.fullstackpython.com/](https://www.fullstackpython.com/) -
 
-https://www.pythonanywhere.com/
+[https://www.pythonanywhere.com/](https://www.pythonanywhere.com/)
+
+http://pythono.ru/
 
