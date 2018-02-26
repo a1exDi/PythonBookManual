@@ -7,12 +7,13 @@
 | Название | Ссылка |
 | :--- | :--- |
 | Учим Python \(SoloLearn\) | [Google Play](https://play.google.com/store/apps/details?id=com.sololearn.python&hl=ru) \(бесплатно\) |
+| Pythono | [Google Play](https://play.google.com/store/apps/details?id=ru.pythono.pythono) \(бесплатно\) |
 
 ## **iOS**
 
 | Название | Ссылка |
 | :--- | :--- |
-| Учим Python \(SoloLearn\) | [iTunes Store](https://itunes.apple.com/ru/app/%D1%83%D1%87%D0%B8%D0%BC-python/id953972812?mt=8) \(бесплатно\) |
+| Учим Python \(SoloLearn\) | [iTunes Store](https://itunes.apple.com/ru/app/учим-python/id953972812?mt=8) \(бесплатно\) |
 
 
 
