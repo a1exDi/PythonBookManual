@@ -32,6 +32,7 @@
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
   * [Множества](tipi-dannih/mnozhestva.md)
+  * [None](tipi-dannih/nonetype.md)
 * [4. Типы коллеций](tipi-kolletsii.md)
   * [Списки - list](tipi-dannih/spiski-list.md)
   * [Словари - dict](tipi-dannih/slovari.md)
