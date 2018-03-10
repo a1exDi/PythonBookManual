@@ -96,6 +96,7 @@
       * Text
       * TopLevel
       * Scrollbar
+      * Canvas
   * [PyQt](gui/pyqt.md)
     * Виджеты
   * [Toga](gui/toga.md)
