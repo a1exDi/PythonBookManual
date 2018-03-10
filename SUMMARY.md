@@ -51,6 +51,7 @@
 * [7. Модули](moduli.md)
   * [Модуль random](moduli/modul-random.md)
   * [Модуль math](moduli/modul-math.md)
+  * [Модуль os](moduli/module-os.md)
 * [9. Базы данных](bazi-dannih.md)
   * [SQLite](bazi-dannih/sqlite.md)
     * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
