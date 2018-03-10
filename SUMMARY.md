@@ -84,7 +84,7 @@
   * [Tkinter](gui/tkinter.md)
     * [Виджеты](gui/tkinter/vidzheti.md)
       * [Button](gui/tkinter/vidzheti/button.md)
-      * Checkbutton
+      * [Checkbutton](gui/tkinter/vidzheti/checkbutton.md)
       * Entry
       * Frame
       * Label
