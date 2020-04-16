@@ -1,78 +1,86 @@
+# pip
+
 **PIP**
 
 Commands:
 
-  install                     Install packages.
+install Install packages.
 
-  download                    Download packages.
+download Download packages.
 
-  uninstall                   Uninstall packages.
+uninstall Uninstall packages.
 
-  freeze                      Output installed packages in requirements format.
+freeze Output installed packages in requirements format.
 
-  list                        List installed packages.
+list List installed packages.
 
-  show                        Show information about installed packages.
+show Show information about installed packages.
 
-  check                       Verify installed packages have compatible dependencies.
+check Verify installed packages have compatible dependencies.
 
-  search                      Search PyPI for packages.
+search Search PyPI for packages.
 
-  wheel                       Build wheels from your requirements.
+wheel Build wheels from your requirements.
 
-  hash                        Compute hashes of package archives.
+hash Compute hashes of package archives.
 
-  completion                  A helper command used for command completion.
+completion A helper command used for command completion.
 
-  help                        Show help for commands.
-
-
+help Show help for commands.
 
 General Options:
 
-  -h, --help                  Show help.
+-h, --help Show help.
 
-  --isolated                  Run pip in an isolated mode, ignoring environment variables and user
+--isolated Run pip in an isolated mode, ignoring environment variables and user
 
-                              configuration.
+```text
+                          configuration.
+```
 
-  -v, --verbose               Give more output. Option is additive, and can be used up to 3 times.
+-v, --verbose Give more output. Option is additive, and can be used up to 3 times.
 
-  -V, --version               Show version and exit.
+-V, --version Show version and exit.
 
-  -q, --quiet                 Give less output. Option is additive, and can be used up to 3 times
+-q, --quiet Give less output. Option is additive, and can be used up to 3 times
 
-                              \(corresponding to WARNING, ERROR, and CRITICAL logging levels\).
+```text
+                          \(corresponding to WARNING, ERROR, and CRITICAL logging levels\).
+```
 
-  --log &lt;path&gt;                Path to a verbose appending log.
+--log &lt;path&gt; Path to a verbose appending log.
 
-  --proxy &lt;proxy&gt;             Specify a proxy in the form \[user:passwd@\]proxy.server:port.
+--proxy &lt;proxy&gt; Specify a proxy in the form \[user:passwd@\]proxy.server:port.
 
-  --retries &lt;retries&gt;         Maximum number of retries each connection should attempt \(default 5 times\).
+--retries &lt;retries&gt; Maximum number of retries each connection should attempt \(default 5 times\).
 
-  --timeout &lt;sec&gt;             Set the socket timeout \(default 15 seconds\).
+--timeout &lt;sec&gt; Set the socket timeout \(default 15 seconds\).
 
-  --exists-action &lt;action&gt;    Default action when a path already exists: \(s\)witch, \(i\)gnore, \(w\)ipe,
+--exists-action &lt;action&gt; Default action when a path already exists: \(s\)witch, \(i\)gnore, \(w\)ipe,
 
-                              \(b\)ackup, \(a\)bort.
+```text
+                          \(b\)ackup, \(a\)bort.
+```
 
-  --trusted-host &lt;hostname&gt;   Mark this host as trusted, even though it does not have valid or any HTTPS.
+--trusted-host &lt;hostname&gt; Mark this host as trusted, even though it does not have valid or any HTTPS.
 
-  --cert &lt;path&gt;               Path to alternate CA bundle.
+--cert &lt;path&gt; Path to alternate CA bundle.
 
-  --client-cert &lt;path&gt;        Path to SSL client certificate, a single file containing the private key and
+--client-cert &lt;path&gt; Path to SSL client certificate, a single file containing the private key and
 
-                              the certificate in PEM format.
+```text
+                          the certificate in PEM format.
+```
 
-  --cache-dir &lt;dir&gt;           Store the cache data in &lt;dir&gt;.
+--cache-dir &lt;dir&gt; Store the cache data in &lt;dir&gt;.
 
-  --no-cache-dir              Disable the cache.
+--no-cache-dir Disable the cache.
 
-  --disable-pip-version-check
+--disable-pip-version-check
 
-                              Don't periodically check PyPI to determine whether a new version of pip is
+```text
+                          Don't periodically check PyPI to determine whether a new version of pip is
 
-                              available for download. Implied with --no-index.
-
-
+                          available for download. Implied with --no-index.
+```
 

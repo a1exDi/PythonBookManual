@@ -1,8 +1,8 @@
-# Summary
+# Table of contents
 
 * [Вступление](README.md)
-  * [Склад ссылок](skladmusor.md)
-* [0. Python](python.md)
+* [Склад ссылок](skladmusor.md)
+* [0. Python](python/README.md)
   * [Описание](python/opisanie.md)
   * [История](python/istoriya.md)
   * [Особенности](python/osobennosti.md)
@@ -18,86 +18,86 @@
   * [Шпаргалка](python/shpargalka.md)
   * [IDE](python/idie.md)
   * [Развертывание](python/razvertivanie.md)
-* [1. Подготовка к работе](chapter1.md)
+* [1. Подготовка к работе](chapter1/README.md)
   * [1.1. Установка Python](chapter1/ustanovka-python.md)
   * [1.2. Установка редактора кода](chapter1/12-ustanovka-redaktora-koda.md)
-* [2. Синтаксис](yfdfwerwer.md)
+* [2. Синтаксис](yfdfwerwer/README.md)
   * [2.1. Синтаксис](yfdfwerwer/sintaksis.md)
   * [2.2. PEP 8](yfdfwerwer/pep-8.md)
-  * [2.1.1 Переменные](yfdfwerwer/sintaksis/peremennie.md)
-  * [2.1.2 Коментарии](yfdfwerwer/sintaksis/komentarii.md)
-* [3. Типы данных](tipi-dannih.md)
-  * [Строка - string](tipi-dannih/stroka-strings-str.md)
+  * [2.1.1 Переменные](yfdfwerwer/peremennie.md)
+  * [2.1.2 Коментарии](yfdfwerwer/komentarii.md)
+* [3. Типы данных](tipi-dannih/README.md)
+  * [Строка - string](tipi-dannih/stroka-strings-str/README.md)
     * [Функции и методы](tipi-dannih/stroka-strings-str/funktsii-i-metodi.md)
   * [Число \(Numbers\)](tipi-dannih/chislo-numbers-int.md)
   * [Логический тип - boolean](tipi-dannih/logicheskii-tip-booltruefalse.md)
   * [Множества](tipi-dannih/mnozhestva.md)
   * [None](tipi-dannih/nonetype.md)
-* [4. Типы коллеций](tipi-kolletsii.md)
-  * [Списки - list](tipi-dannih/spiski-list.md)
-  * [Словари - dict](tipi-dannih/slovari.md)
-  * [Кортежи - tuple](tipi-dannih/kortezhi.md)
-* [5. Операторы](operatori.md)
+* [4. Типы коллеций](tipi-kolletsii/README.md)
+  * [Списки - list](tipi-kolletsii/spiski-list.md)
+  * [Словари - dict](tipi-kolletsii/slovari.md)
+  * [Кортежи - tuple](tipi-kolletsii/kortezhi.md)
+* [5. Операторы](operatori/README.md)
   * [Операторы присваивания](operatori/operatori-prisvaivaniya.md)
   * [Операторы тождественности](operatori/operatori-tozhdestvennosti.md)
   * [Операторы сравнения](operatori/operatori-sravneniya.md)
   * [Арифметические операторы](operatori/arifmeticheskie-operatori.md)
   * [Оператор конкатенации](operatori/operator-konkatenatsii.md)
   * [Логические операторы](operatori/logicheskie-operatori.md)
-* [6. Условия и Циклы](tsikli.md)
+* [6. Условия и Циклы](tsikli/README.md)
   * [if/elif/else](tsikli/ifelifelse.md)
   * [while](tsikli/while.md)
   * [for](tsikli/for.md)
-* [7. Модули](moduli.md)
+* [7. Модули](moduli/README.md)
   * [Модуль random](moduli/modul-random.md)
   * [Модуль math](moduli/modul-math.md)
   * [Модуль os](moduli/module-os.md)
-* [9. Базы данных](bazi-dannih.md)
-  * [SQLite](bazi-dannih/sqlite.md)
-    * [SQLtest 1 ](bazi-dannih/sqlite/sqltest-1.md)
-* [10. Встроенные функции](vstroennie-funktsii.md)
+* [9. Базы данных](bazi-dannih/README.md)
+  * [SQLite](bazi-dannih/sqlite/README.md)
+    * [SQLtest 1](bazi-dannih/sqlite/sqltest-1.md)
+* [10. Встроенные функции](vstroennie-funktsii/README.md)
   * [enumerate](vstroennie-funktsii/enumerate.md)
-* [11. Web Frameworks](frameworks.md)
-  * Django
-  * Flask
-  * Pyramid
-  * Bottle
-  * Falcon
-  * Morepath
-* [12. Возможности](vozmozhnosti.md)
-  * Web Scrapping
-  * [Machine Learning](vozmozhnosti/machine-learning.md)
-    * Tangent
-    * Tensorflow
-  * Data Science
-  * Big Data
-* [13. Инструменты](instrumenti.md)
+* [11. Web Frameworks](frameworks/README.md)
+  * [Django](frameworks/django.md)
+  * [Flask](frameworks/flask.md)
+  * [Pyramid](frameworks/pyramid.md)
+  * [Bottle](frameworks/bottle.md)
+  * [Falcon](frameworks/falcon.md)
+  * [Morepath](frameworks/morepath.md)
+* [12. Возможности](vozmozhnosti/README.md)
+  * [Web Scrapping](vozmozhnosti/web-scrapping.md)
+  * [Machine Learning](vozmozhnosti/machine-learning/README.md)
+    * [Tangent](vozmozhnosti/machine-learning/tangent.md)
+    * [Tensorflow](vozmozhnosti/machine-learning/tensorflow.md)
+  * [Data Science](vozmozhnosti/data-science.md)
+  * [Big Data](vozmozhnosti/big-data.md)
+* [13. Инструменты](instrumenti/README.md)
   * [pip](instrumenti/pip.md)
-  * virtualenv
-  * conda
-* [14. Библиотеки](biblioteki.md)
-  * cv2
-  * NumPy
-  * SciPy
-  * Matplotlib
-* [15. GUI](gui.md)
-  * [Tkinter](gui/tkinter.md)
-    * [Виджеты](gui/tkinter/vidzheti.md)
+  * [virtualenv](instrumenti/virtualenv.md)
+  * [conda](instrumenti/conda.md)
+* [14. Библиотеки](biblioteki/README.md)
+  * [cv2](biblioteki/cv2.md)
+  * [NumPy](biblioteki/numpy.md)
+  * [SciPy](biblioteki/scipy.md)
+  * [Matplotlib](biblioteki/matplotlib.md)
+* [15. GUI](gui/README.md)
+  * [Tkinter](gui/tkinter/README.md)
+    * [Виджеты](gui/tkinter/vidzheti/README.md)
       * [Button](gui/tkinter/vidzheti/button.md)
       * [Checkbutton](gui/tkinter/vidzheti/checkbutton.md)
-      * Entry
-      * Frame
-      * Label
-      * Listbox
-      * Message
-      * PanedWindow
-      * Radiobutton
-      * Scale
-      * Text
-      * TopLevel
-      * Scrollbar
-      * Canvas
-  * [PyQt](gui/pyqt.md)
-    * Виджеты
+      * [Entry](gui/tkinter/vidzheti/entry.md)
+      * [Frame](gui/tkinter/vidzheti/frame.md)
+      * [Label](gui/tkinter/vidzheti/label.md)
+      * [Listbox](gui/tkinter/vidzheti/listbox.md)
+      * [Message](gui/tkinter/vidzheti/message.md)
+      * [PanedWindow](gui/tkinter/vidzheti/panedwindow.md)
+      * [Radiobutton](gui/tkinter/vidzheti/radiobutton.md)
+      * [Scale](gui/tkinter/vidzheti/scale.md)
+      * [Text](gui/tkinter/vidzheti/text.md)
+      * [TopLevel](gui/tkinter/vidzheti/toplevel.md)
+      * [Scrollbar](gui/tkinter/vidzheti/scrollbar.md)
+      * [Canvas](gui/tkinter/vidzheti/canvas.md)
+  * [PyQt](gui/pyqt/README.md)
+    * [Виджеты](gui/pyqt/vidzhety.md)
   * [Toga](gui/toga.md)
 

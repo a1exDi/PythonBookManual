@@ -1,4 +1,4 @@
-# Полезные сайты про Python
+# Сайты
 
 Полезный сайт, который держу под рукой во время обучения Python и конспектирования в данный wiki. В принципе там можно найти все основы для старта программирования на питоне - [https://pythonworld.ru/](https://pythonworld.ru/)
 
@@ -18,5 +18,5 @@
 
 [https://www.pythonanywhere.com/](https://www.pythonanywhere.com/)
 
-http://pythono.ru/
+[http://pythono.ru/](http://pythono.ru/)
 
