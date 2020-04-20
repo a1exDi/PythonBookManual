@@ -100,4 +100,5 @@
   * [PyQt](gui/pyqt/README.md)
     * [Виджеты](gui/pyqt/vidzhety.md)
   * [Toga](gui/toga.md)
+* [Классы и объекты](klassy-i-obekty.md)
 
