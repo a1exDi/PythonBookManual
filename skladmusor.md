@@ -1,27 +1,5 @@
 # Склад ссылок
 
-## Курсы - бесплатные
-
-### 
-
-
-
-## Курсы - платные
-
-### CodeCademy
-
- [https://www.codecademy.com/learn/python](https://vk.com/away.php?to=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Fpython&cc_key=) 
-
-
-
-
-
-
-
-
-
-
-
 ## Официальная документация
 
 [https://www.python.org/doc/](https://vk.com/away.php?to=https%3A%2F%2Fwww.python.org%2Fdoc%2F&cc_key=)
