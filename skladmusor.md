@@ -2,14 +2,15 @@
 
 ## Курсы - бесплатные
 
-### HyperSkill
-
-[https://hyperskill.org/](https://hyperskill.org/) - бесплатный проект сделанный совместно со Stepik и JetBrains. Обучение идет с самых азов, но можно выбрать уровень знаний Python и пропустить основы. По ходу обучения вы делайте маленький проект в зависимости от сложности обучения. 
+### 
 
 
 
 ## Курсы - платные
 
+### CodeCademy
+
+ [https://www.codecademy.com/learn/python](https://vk.com/away.php?to=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Fpython&cc_key=) 
 
 
 
@@ -20,27 +21,14 @@
 
 
 
-Официальная документация:
+
+## Официальная документация
 
 [https://www.python.org/doc/](https://vk.com/away.php?to=https%3A%2F%2Fwww.python.org%2Fdoc%2F&cc_key=)
 
 [https://www.djangoproject.com/](https://vk.com/away.php?to=https%3A%2F%2Fwww.djangoproject.com%2F&cc_key=)
 
-Курс видеоуроков в пачке, формат торрент-раздачи\(2 года назад вылил сам с торрента и храню у себя\), у кого не открывается можете просто скачать торрент файл
-
-[http://www.ex.ua/101768608](https://vk.com/away.php?to=http%3A%2F%2Fwww.ex.ua%2F101768608&cc_key=)
-
-Не знаю к чему отнести, но гайд толковый:
-
-[https://djangogirls.org/](https://vk.com/away.php?to=https%3A%2F%2Fdjangogirls.org%2F&cc_key=)
-
-Книга по Django на украинском от украинского разработчика со стажем.
-
-[https://drive.google.com/open?id=0BwNVyRX12MsfRjRHOWd](https://vk.com/away.php?to=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0BwNVyRX12MsfRjRHOWd&cc_key=)
-
-..
-
-Ютуб каналы по Django+Python:
+## YouTube каналы Python
 
 [https://www.youtube.com/user/CodingEntrepreneurs](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2FCodingEntrepreneurs&cc_key=)
 
@@ -52,17 +40,11 @@
 
 [https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvH](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCokGORp98u8yD5MJvqvH&cc_key=)
 
-..
-
 [https://www.youtube.com/channel/UClQJvX1TXm0rXoxFtTcz](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUClQJvX1TXm0rXoxFtTcz&cc_key=)
-
-..
 
 [https://www.youtube.com/user/TPMGTU](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2FTPMGTU&cc_key=)
 
-Толковые стримы, советую подписаться:
 
-[https://www.livecoding.tv](https://vk.com/away.php?to=https%3A%2F%2Fwww.livecoding.tv&cc_key=)
 
 Курсы:
 
@@ -70,15 +52,11 @@
 
 [https://stepik.org/course/Адаптивный-тренажер-Python-](https://vk.com/away.php?to=https%3A%2F%2Fstepik.org%2Fcourse%2F%C0%E4%E0%EF%F2%E8%E2%ED%FB%E9-%F2%F0%E5%ED%E0%E6%E5%F0-Python-&cc_key=)
 
-..
-
 [https://stepik.org/course/Adaptive-Python-568](https://vk.com/away.php?to=https%3A%2F%2Fstepik.org%2Fcourse%2FAdaptive-Python-568&cc_key=)
 
 [https://stepik.org/course/Python-основы-и-%D0%BF%D1%8](https://vk.com/away.php?to=https%3A%2F%2Fstepik.org%2Fcourse%2FPython-%EE%F1%ED%EE%E2%FB-%E8-%25D0%25BF%25D1%258&cc_key=)
 
-..
 
-[https://www.codecademy.com/learn/python](https://vk.com/away.php?to=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Fpython&cc_key=)
 
 [https://www.codeschool.com/learn/python](https://vk.com/away.php?to=https%3A%2F%2Fwww.codeschool.com%2Flearn%2Fpython&cc_key=)
 
@@ -111,8 +89,6 @@ IDE for python:
 [https://www.jetbrains.com/pycharm/](https://vk.com/away.php?to=https%3A%2F%2Fwww.jetbrains.com%2Fpycharm%2F&cc_key=)
 
 [https://www.eclipse.org/downloads/](https://vk.com/away.php?to=https%3A%2F%2Fwww.eclipse.org%2Fdownloads%2F&cc_key=)
-
-* говорят не хуже чем Pycharm, но нужно сначала настроить:
 
 [https://habrahabr.ru/post/167559/](https://vk.com/away.php?to=https%3A%2F%2Fhabrahabr.ru%2Fpost%2F167559%2F&cc_key=)
 
