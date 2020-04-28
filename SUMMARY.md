@@ -57,6 +57,7 @@
     * [SQLtest 1](bazi-dannih/sqlite/sqltest-1.md)
 * [10. Встроенные функции](vstroennie-funktsii/README.md)
   * [enumerate](vstroennie-funktsii/enumerate.md)
+* [Классы и объекты](klassy-i-obekty.md)
 * [11. Web Frameworks](frameworks/README.md)
   * [Django](frameworks/django.md)
   * [Flask](frameworks/flask.md)
@@ -100,5 +101,4 @@
   * [PyQt](gui/pyqt/README.md)
     * [Виджеты](gui/pyqt/vidzhety.md)
   * [Toga](gui/toga.md)
-* [Классы и объекты](klassy-i-obekty.md)
 
