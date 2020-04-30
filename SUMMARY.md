@@ -101,4 +101,5 @@
   * [PyQt](gui/pyqt/README.md)
     * [Виджеты](gui/pyqt/vidzhety.md)
   * [Toga](gui/toga.md)
+* [Генераторы](generatory.md)
 
